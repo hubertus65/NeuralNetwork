@@ -1,0 +1,75 @@
+{
+  "name": "Neuralnetwork",
+  "format": "1.0.0",
+  "dependencies": [],
+  "content": [
+    {
+      "relpath": "NeuralNetwork",
+      "contentType": "MODELICA",
+      "name": "NeuralNetwork",
+      "defaultDisabled": false,
+      "id": "1044cd30c8ff419dbcc00057fa8cd112"
+    },
+    {
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS",
+      "defaultDisabled": false,
+      "id": "5fa0257d240b41358b71c05b0ce3d2bc"
+    },
+    {
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "defaultDisabled": false,
+      "id": "37d2b56d1b7b478e885f01d9f74e98b1"
+    },
+    {
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS",
+      "defaultDisabled": false,
+      "id": "ec021a6a59824983a7b890e5f7f20639"
+    },
+    {
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC",
+      "defaultDisabled": false,
+      "id": "735b4d962676453d806c171ba6cf1226"
+    },
+    {
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS",
+      "defaultDisabled": false,
+      "id": "cc1275b70b98413bb5acb29d0f9b6bfb"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "defaultDisabled": false,
+      "id": "fbeaf2fa12294fdb936aa959d84f8e0a"
+    },
+    {
+      "relpath": "img",
+      "contentType": "GENERIC",
+      "defaultDisabled": true,
+      "id": "107bc9a8e3814df0ab0236331733f2bb"
+    },
+    {
+      "relpath": "ReferenceFiles",
+      "contentType": "GENERIC",
+      "defaultDisabled": true,
+      "id": "adcf8d2bc9ae44b089e669d6361936ab"
+    },
+    {
+      "relpath": "Example",
+      "contentType": "GENERIC",
+      "defaultDisabled": true,
+      "id": "4b934979fbd6429e9663ddb7653b2124"
+    },
+    {
+      "relpath": "PythonToModelica",
+      "contentType": "GENERIC",
+      "defaultDisabled": true,
+      "id": "93824d8eaad5489aa4d7f3d1c3681683"
+    }
+  ],
+  "executionOptions": []
+}
