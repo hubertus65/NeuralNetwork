@@ -24,7 +24,7 @@ with a dense feed forward neural network with one input and one output layer.
 The training of the neural network is done with
 [TensorFlow][tensorflow-link]. Training and export to Modelica is
 showcased in Jupyter notebook
-[Example/helloWorld.ipynb][example-link].
+[Resources/Notebooks/helloWorld.ipynb][example-ipynb].
 
 ## Current release
 
@@ -63,7 +63,7 @@ You may report any issues by using the [Issue Tracker][issues-link].
 [nn-v1-link]:      https://github.com/modelica-3rdparty/NeuralNetwork
 [hsbi-link]:       https://www.hsbi.de/ium
 [issues-link]:     https://github.com/AMIT-HSBI/NeuralNetwork/issues
-[example-ipynb]:   ./Example/helloWorld.ipynb
+[example-ipynb]:   ./Resources/Notebooks/helloWorld.ipynb
 [helloWorld-img]:  ./img/HelloWorld.png
 [license]:         ./LICENSE
 [python-package]:  ./PythonToModelica/
